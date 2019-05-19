@@ -118,5 +118,5 @@ SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd HH:mm:ss");
 String dateTime = format.format(date);
 ```
 运行结果：
-！[image](https://github.com/ZHUOGL/NotePad-master/blob/master/20180622181222439.png)
+！[image](https://raw.githubusercontent.com/ZHUOGL/NotePad-master/master/20180622181222439.png)
 
