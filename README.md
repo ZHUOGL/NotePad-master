@@ -114,4 +114,3 @@ Long now = Long.valueOf(System.currentTimeMillis());
 Date date = new Date(now);
 SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd HH:mm:ss");
 String dateTime = format.format(date);
-运行效果： 
