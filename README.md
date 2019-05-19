@@ -3,9 +3,9 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 NoteList中显示条目增加时间显示
 在NotePad原应用中，笔记列表只显示了笔记的标题。对它做时间扩展，把时间放在标题下方。 
 先找到列表中item的布局：noteslist_item.xml。 
-在这个布局文件中有一个TextView是笔记列表的标题（item）了。.
+在这个布局文件中有一个TextView是笔记列表的标题（item）了。
 
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+<TextView xmlns:android="http://schemas.android.com/apk/res/android".
     android:id="@android:id/text1"
     android:layout_width="match_parent"
     android:layout_height="?android:attr/listPreferredItemHeight"
